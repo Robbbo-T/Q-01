@@ -1,8 +1,8 @@
-**Quantum Computing Data Centers as Power Plants for Energy and Propulsion: ProEnergyGen (QuantumAI)**
+## **Quantum Computing Data Centers as Power Plants for Energy and Propulsion: ProEnergyGen (QuantumAI)**
 
-**ProEnergyGen (QuantumAI): Concept Overview**
+#### **ProEnergyGen (QuantumAI): Concept Overview**
 
-**Premise:**
+###### **Premise:**
 
 Specialized Quantum Computing Data Centers are designed not only for computation but also to act as power sources, potentially contributing to both energy needs and even propulsion in advanced aerospace applications. This concept leverages the unique properties of quantum systems and their potential for energy manipulation.
 
